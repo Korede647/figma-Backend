@@ -1,5 +1,6 @@
 import dotenv from "dotenv";
 import express from "express";
+import cors from "cors";
 import { errorHandler } from "./utils/errorHandler.util";
 
 dotenv.config();
@@ -24,6 +25,9 @@ const corsOptions = {
     allowedHeaders: "*",
     methods: "GET, HEAD, PUT, PATCH, POST, DELETE",
 };
+
+app.use(cors(corsOptions));
+app.use(express.json());
 
 app.use(errorHandler);
 

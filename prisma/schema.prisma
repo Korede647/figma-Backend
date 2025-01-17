@@ -13,6 +13,28 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum STATUS {
+  AVAILABLE
+  NOT_AVAILABLE 
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String
+  firstName String?
+  lastName  String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
 model Equipment {
-  id     Int     @id @default(autoincrement())
+  id        Int      @id @default(autoincrement())
+  name      String
+  description String
+  duration   Int
+  price      Float
+  status     STATUS  @default(AVAILABLE)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
