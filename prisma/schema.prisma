@@ -15,7 +15,7 @@ datasource db {
 
 enum STATUS {
   AVAILABLE
-  NOT_AVAILABLE 
+  NOT_AVAILABLE
 }
 
 model User {
@@ -29,12 +29,12 @@ model User {
 }
 
 model Equipment {
-  id        Int      @id @default(autoincrement())
-  name      String
+  id          Int      @id @default(autoincrement())
+  name        String
   description String
-  duration   Int
-  price      Float
-  status     STATUS  @default(AVAILABLE)
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  duration    Int
+  price       Float
+  status      STATUS   @default(AVAILABLE)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
 }
