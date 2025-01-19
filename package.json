@@ -15,6 +15,18 @@
     "prisma": "^6.2.1"
   },
   "devDependencies": {
-    "@types/express": "^5.0.0"
-  }
+    "@types/express": "^5.0.0",
+    "ts": "^0.2.2",
+    "typescript": "^5.7.3"
+  },
+  "name": "backend-intern",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000i\u0000g\u0000m\u0000a\u0000-\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
