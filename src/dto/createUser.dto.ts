@@ -16,5 +16,7 @@ export class CreateUserDTO {
     @Length(6, 20)
     password!: string;
 
+    @IsNotEmpty()
+    state!: [];
 
 }

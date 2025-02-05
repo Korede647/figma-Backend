@@ -1,4 +1,7 @@
 {
+  "prisma": {
+    "seed": "ts-node src/seed/seed.ts"
+  },
   "dependencies": {
     "@prisma/client": "^6.2.1",
     "@types/bcryptjs": "^2.4.6",
@@ -16,7 +19,9 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
+    "@types/node": "^22.13.1",
     "ts": "^0.2.2",
+    "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
   },
   "name": "backend-intern",
