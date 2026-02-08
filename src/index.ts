@@ -2,6 +2,7 @@ import dotenv from "dotenv";
 import express from "express";
 import cors from "cors";
 import { errorHandler } from "./utils/errorHandler.util";
+import userRoutes from "./routes/user.route";
 
 dotenv.config();
 
@@ -28,6 +29,8 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 app.use(express.json());
+
+app.use("/api/v1/states", userRoutes)
 
 app.use(errorHandler);
 

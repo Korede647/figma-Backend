@@ -1,5 +1,5 @@
 import { PrismaClient } from "@prisma/client";
-import "./userData.json";
+import "./stateData.json";
 
 import * as fs from "fs";
 import * as path from "path";

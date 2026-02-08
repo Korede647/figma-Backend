@@ -1,7 +1,7 @@
- [
+[
     {
-      "state": "Abia",
-      "lgas": [
+        "state": "Abia",
+        "lgas": [
             "Aba North",
             "Aba South",
             "Arochukwu",
@@ -22,8 +22,8 @@
         ]
     },
     {
-      "state": "Adamawa",
-      "lgas": [
+        "state": "Adamawa",
+        "lgas": [
             "Demsa",
             "Fufure",
             "Ganye",
@@ -48,8 +48,8 @@
         ]
     },
     {
-      "state": "Akwa Ibom",
-      "lgas": [
+        "state": "Akwa Ibom",
+        "lgas": [
             "Abak",
             "Eastern Obolo",
             "Eket",
@@ -84,8 +84,8 @@
         ]
     },
     {
-      "state": "Anambra",
-      "lgas": [
+        "state": "Anambra",
+        "lgas": [
             "Aguata",
             "Anambra East",
             "Anambra West",
@@ -110,8 +110,8 @@
         ]
     },
     {
-      "state": "Bauchi",
-      "lgas": [
+        "state": "Bauchi",
+        "lgas": [
             "Alkaleri",
             "Bauchi",
             "Bogoro",
@@ -135,8 +135,8 @@
         ]
     },
     {
-      "state": "Bayelsa",
-      "lgas": [
+        "state": "Bayelsa",
+        "lgas": [
             "Brass",
             "Ekeremor",
             "Kolokuma/Opokuma",
@@ -148,8 +148,8 @@
         ]
     },
     {
-      "state": "Benue",
-      "lgas": [
+        "state": "Benue",
+        "lgas": [
             "Ado",
             "Agatu",
             "Apa",
@@ -176,8 +176,8 @@
         ]
     },
     {
-      "state": "Borno",
-      "lgas": [
+        "state": "Borno",
+        "lgas": [
             "Abadam",
             "Askira/Uba",
             "Bama",
@@ -208,8 +208,8 @@
         ]
     },
     {
-      "state": "Cross River",
-      "lgas": [
+        "state": "Cross River",
+        "lgas": [
             "Abi",
             "Akamkpa",
             "Akpabuyo",
@@ -231,8 +231,8 @@
         ]
     },
     {
-      "state": "Delta",
-      "lgas": [
+        "state": "Delta",
+        "lgas": [
             "Aniocha North",
             "Aniocha South",
             "Bomadi",
@@ -261,8 +261,8 @@
         ]
     },
     {
-      "state": "Ebonyi",
-      "lgas": [
+        "state": "Ebonyi",
+        "lgas": [
             "Abakaliki",
             "Afikpo North",
             "Afikpo South",
@@ -279,8 +279,8 @@
         ]
     },
     {
-      "state": "Edo",
-      "lgas": [
+        "state": "Edo",
+        "lgas": [
             "Akoko-Edo",
             "Egor",
             "Esan Central",
@@ -302,8 +302,8 @@
         ]
     },
     {
-      "state": "Ekiti",
-      "lgas": [
+        "state": "Ekiti",
+        "lgas": [
             "Ado Ekiti",
             "Efon",
             "Ekiti East",
@@ -323,8 +323,8 @@
         ]
     },
     {
-      "state": "Enugu",
-      "lgas": [
+        "state": "Enugu",
+        "lgas": [
             "Aninri",
             "Awgu",
             "Enugu East",
@@ -345,8 +345,8 @@
         ]
     },
     {
-      "state": "Gombe",
-      "lgas": [
+        "state": "Gombe",
+        "lgas": [
             "Akko",
             "Balanga",
             "Billiri",
@@ -361,8 +361,8 @@
         ]
     },
     {
-      "state": "Imo",
-      "lgas": [
+        "state": "Imo",
+        "lgas": [
             "Aboh Mbaise",
             "Ahiazu Mbaise",
             "Ehime Mbano",
@@ -393,8 +393,8 @@
         ]
     },
     {
-      "state": "Jigawa",
-      "lgas": [
+        "state": "Jigawa",
+        "lgas": [
             "Auyo",
             "Babura",
             "Biriniwa",
@@ -425,8 +425,8 @@
         ]
     },
     {
-      "state": "Kaduna",
-      "lgas": [
+        "state": "Kaduna",
+        "lgas": [
             "Birnin Gwari",
             "Chikun",
             "Giwa",
@@ -453,8 +453,8 @@
         ]
     },
     {
-      "state": "Kano",
-      "lgas": [
+        "state": "Kano",
+        "lgas": [
             "Ajingi",
             "Albasu",
             "Bagwai",
@@ -502,8 +502,8 @@
         ]
     },
     {
-      "state": "Katsina",
-      "lgas": [
+        "state": "Katsina",
+        "lgas": [
             "Bakori",
             "Batagarawa",
             "Batsari",
@@ -541,8 +541,8 @@
         ]
     },
     {
-      "state": "Kebbi",
-      "lgas": [
+        "state": "Kebbi",
+        "lgas": [
             "Aleiro",
             "Arewa Dandi",
             "Argungu",
@@ -567,8 +567,8 @@
         ]
     },
     {
-      "state": "Kogi",
-      "lgas": [
+        "state": "Kogi",
+        "lgas": [
             "Adavi",
             "Ajaokuta",
             "Ankpa",
@@ -593,8 +593,8 @@
         ]
     },
     {
-      "state": "Kwara",
-      "lgas": [
+        "state": "Kwara",
+        "lgas": [
             "Asa",
             "Baruten",
             "Edu",
@@ -614,8 +614,8 @@
         ]
     },
     {
-      "state": "Lagos",
-      "lgas": [
+        "state": "Lagos",
+        "lgas": [
             "Agege",
             "Ajeromi-Ifelodun",
             "Alimosho",
@@ -639,8 +639,8 @@
         ]
     },
     {
-      "state": "Nasarawa",
-      "lgas": [
+        "state": "Nasarawa",
+        "lgas": [
             "Akwanga",
             "Awe",
             "Doma",
@@ -657,8 +657,8 @@
         ]
     },
     {
-      "state": "Niger",
-      "lgas": [
+        "state": "Niger",
+        "lgas": [
             "Agaie",
             "Agwara",
             "Bida",
@@ -687,8 +687,8 @@
         ]
     },
     {
-      "state": "Ogun",
-      "lgas": [
+        "state": "Ogun",
+        "lgas": [
             "Abeokuta North",
             "Abeokuta South",
             "Ado-Odo/Ota",
@@ -712,8 +712,8 @@
         ]
     },
     {
-      "state": "Ondo",
-      "lgas": [
+        "state": "Ondo",
+        "lgas": [
             "Akoko North-East",
             "Akoko North-West",
             "Akoko South-West",
@@ -735,8 +735,8 @@
         ]
     },
     {
-      "state": "Osun",
-      "lgas": [
+        "state": "Osun",
+        "lgas": [
             "Atakunmosa East",
             "Atakunmosa West",
             "Aiyedaade",
@@ -770,8 +770,8 @@
         ]
     },
     {
-      "state": "Oyo",
-      "lgas": [
+        "state": "Oyo",
+        "lgas": [
             "Afijio",
             "Akinyele",
             "Atiba",
@@ -808,8 +808,8 @@
         ]
     },
     {
-      "state": "Plateau",
-      "lgas": [
+        "state": "Plateau",
+        "lgas": [
             "Barkin Ladi",
             "Bassa",
             "Bokkos",
@@ -822,8 +822,49 @@
             "Langtang South",
             "Mangu",
             "Mikang",
-            "Pankshin", 
+            "Pankshin",
             "Qua'an Pan"
-      ]
+        ]
+    },
+    {
+        "state": "Yobe",
+        "lgas": [
+            "Bade",
+            "Bursari",
+            "Damaturu",
+            "Fika",
+            "Fune",
+            "Geidam",
+            "Gujba",
+            "Gulani",
+            "Jakusko",
+            "Karasuwa",
+            "Machina",
+            "Nangere",
+            "Nguru",
+            "Potiskum",
+            "Tarmuwa",
+            "Yunusari",
+            "Yusufari"
+        ]
+    },
+    {
+        "state": "Zamfara",
+        "lgas": [
+            "Anka",
+            "Bakura",
+            "Birnin Magaji/Kiyaw",
+            "Bukkuyum",
+            "Bungudu",
+            "Gummi",
+            "Gusau",
+            "Kaura Namoda",
+            "Maradun",
+            "Maru",
+            "Shinkafi",
+            "Talata Mafara",
+            "Chafe",
+            "Zurmi"
+        ]
     }
- ]
+]

@@ -13,6 +13,11 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum Role {
+  USER
+  ADMIN
+}
+
 enum STATUS {
   AVAILABLE
   NOT_AVAILABLE
@@ -26,6 +31,7 @@ model User {
   lastName  String?
   state     State   @relation(fields: [stateId], references: [id])
   stateId   Int
+  role Role @default(USER)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
